@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-size: 1em;
+    font-weight: normal;
+}
+
+.container {
+    background-color: #f0f0f0;
+    width: 100%;
+    /* margin: top, right, bottom, left; */
+    /* margin: x, y; */
+    /* padding: top, right, bottom, left; */
+    /* padding: x, y; */
+    margin: 0 auto;
+    padding: 10px;
+}
